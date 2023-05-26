@@ -2,6 +2,6 @@
 electron+express
 
 # For start
-npm install
+`npm install`
 
 electron ./
