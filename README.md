@@ -1,7 +1,4 @@
-# Base_electron_express
-electron+express
-
-# For start
+# Getting Started
 `npm install`
 
-electron ./
+`electron ./`
